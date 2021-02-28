@@ -7,7 +7,8 @@ clone or fork the repo
 
 1. replace .env.example file and name it .env
 2. fill in your username, password and org domain in env file.
-3. run npm start
+3. run `npm install`
+4. run `npm start`
 
 you can replace your working hours in config/default.yaml
 
