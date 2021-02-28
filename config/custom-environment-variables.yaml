@@ -1,0 +1,6 @@
+---
+hilan:
+  username: HILAN_USERNAME
+  password: HILAN_PASSWORD
+  pages:
+    loginPage: HILAN_LOGIN_PAGE

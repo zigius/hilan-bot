@@ -1,0 +1,9 @@
+---
+hilan:
+  workingDayStartHour: "09"
+  workingDayStartMinutes: "00"
+  workingDayEndHour: "19"
+  workingDayEndMinutes: "00"
+  startingDayIndex: 1
+  pages:
+    loginPage: https://defaultlogin.com/login
