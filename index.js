@@ -25,7 +25,7 @@ var Promise = require("bluebird");
       // next page\
       const mainFrame = await page.mainFrame();
       await mainFrame.click(
-        `css=.TableContentData >> css=.UserTasksItem:nth-child(${config.startingDayIndex}) >> css=span`
+        `css=.TableContentData >> css=.UserTasksItem:nth-child(${config.hilan.startingDayIndex}) >> css=span`
       );
       await Promise.delay(1000);
       const elementHandle = await page.$("#ErrFrame");
